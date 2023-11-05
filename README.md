@@ -1,8 +1,12 @@
-# React + Vite
+# React + Vite + Firebase
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+URL Test: https://udemy-react-2023-100fb.web.app/
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Firebase": "^10.5.0"
+- Flowbite": "^2.0.0"
+- Flowbite-react": "^0.6.4"
+- nanoid": "^5.0.2"
+- React": "^18.2.0"
+- React-dom": "^18.2.0"
+- React-hook-form": "^7.47.0"
+- React-router-dom": "^6.17.0"
